@@ -70,7 +70,7 @@ capsule-labs/
 
 ## `bsp` — Multi-Site Master Scraper
 
-**A batch scraper that aggregates data across a list of target sites into a unified master database.**
+**A batch scraper that aggregates data across a list of about 250+ target sites into a unified master database.**
 
 Handles multiple source URLs, normalizes inconsistent data structures, and outputs a clean consolidated dataset. Designed for resilience and repeatability across scheduled runs.
 
