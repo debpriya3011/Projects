@@ -1,0 +1,3 @@
+DATASET: International trade of EU and non-EU countries since 2002 by HS2-4-6
+EXTRACTION: UNTITLED_20260112
+DATE: 12-01-2026 08:12:25

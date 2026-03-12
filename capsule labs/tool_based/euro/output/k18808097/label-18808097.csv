@@ -1,0 +1,22 @@
+REPORTER
+TR,"Türkiye"
+
+PARTNER
+EXT_EA,"Extra-euro area"
+EXT_EA20,"Extra-euro area - 20 countries (from 2023)"
+EXT_EU,"Extra-EU"
+EXT_EU27_2020,"Extra-EU27 (from 2020)"
+TH,"Thailand"
+WORLD,"All countries of the world"
+
+PRODUCT
+010639,"Live birds (excl. birds of prey, psittaciformes, parrots, parrakeets, macaws, cockatoos, ostriches and emus)"
+
+FLOW
+2,"EXPORT"
+
+PERIOD
+202506,"Jun. 2025"
+
+INDICATORS
+QUANTITY_KG,"QUANTITY_KG"

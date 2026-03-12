@@ -1,0 +1,43 @@
+REPORTER
+NL,"Netherlands"
+
+PARTNER
+BE,"Belgium (incl. Luxembourg 'LU' -> 1998)"
+BR,"Brazil"
+CA,"Canada"
+CN,"China"
+DE,"Germany (incl. German Democratic Republic 'DD' from 1991)"
+EXT_EA,"Extra-euro area"
+EXT_EA20,"Extra-euro area - 20 countries (from 2023)"
+EXT_EU,"Extra-EU"
+EXT_EU27_2020,"Extra-EU27 (from 2020)"
+FR,"France (incl. Saint Barthélemy 'BL' -> 2012; incl. French Guiana 'GF', Guadeloupe 'GP', Martinique 'MQ', Réunion 'RE' from 1997; incl. Mayotte 'YT' from 2014)"
+GB,"United Kingdom"
+INT_EA,"Intra-euro area"
+INT_EA20,"Intra-euro area - 20 countries (from 2023)"
+INT_EU,"Intra-EU"
+INT_EU27_2020,"Intra-EU27 (from 2020)"
+JP,"Japan"
+KR,"Korea, Republic of (South Korea)"
+MX,"Mexico"
+NO,"Norway (incl. Svalbard and Jan Mayen 'SJ' -> 1994 and again from 1997)"
+SE,"Sweden"
+TR,"Türkiye"
+TW,"Taiwan"
+UA,"Ukraine"
+US,"United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000)"
+WORLD,"All countries of the world"
+XS,"Serbia"
+ZA,"South Africa (incl. Namibia 'NA' -> 1989)"
+
+PRODUCT
+260111,"Non-agglomerated iron ores and concentrates (excl. roasted iron pyrites)"
+
+FLOW
+1,"IMPORT"
+
+PERIOD
+202411,"Nov. 2024"
+
+INDICATORS
+QUANTITY_KG,"QUANTITY_KG"
