@@ -163,7 +163,7 @@ Handles multiple source URLs, normalizes inconsistent data structures, and outpu
 
 ## `encuentra24` — Encuentra24 Interaction Tool
 
-**Automation tool for interacting with the Encuentra24 classifieds platform — browsing, filtering, and data extraction.**
+**Automation tool for interacting with the Encuentra24 classifieds platform — browsing, filtering, data extraction and posts publishing.**
 
 | Website | Tool |
 |:-------:|:----:|
@@ -295,9 +295,9 @@ Handles multiple source URLs, normalizes inconsistent data structures, and outpu
 
 #### Initial Extraction Phase
 
-| Automatic Extraction | Manual Crop |
-|:--------------------:|:-----------:|
-| ![automatic extraction](./tool_based/paul_project/screenshots/initial%20step/automatic%20extraction.png) | ![manual crop](./tool_based/paul_project/screenshots/initial%20step/manual%20crop.png) |
+| Manual Crop |
+|:-----------:|
+| ![manual crop](./tool_based/paul_project/screenshots/initial%20step/manual%20crop.png) |
 
 #### Working Process
 
